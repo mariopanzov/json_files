@@ -1,0 +1,1750 @@
+[
+    {
+        "city_name": "Adlešiči",
+        "city_code": 8341
+    },
+    {
+        "city_name": "Ajdovščina",
+        "city_code": 5270
+    },
+    {
+        "city_name": "Ankaran/Ancarano",
+        "city_code": 6280
+    },
+    {
+        "city_name": "Apače",
+        "city_code": 9253
+    },
+    {
+        "city_name": "Artiče",
+        "city_code": 8253
+    },
+    {
+        "city_name": "Cankova",
+        "city_code": 9261
+    },
+    {
+        "city_name": "Celje",
+        "city_code": 3000
+    },
+    {
+        "city_name": "Celje P.P.",
+        "city_code": 3001
+    },
+    {
+        "city_name": "Cerklje na Gorenjskem",
+        "city_code": 4207
+    },
+    {
+        "city_name": "Cerklje ob Krki",
+        "city_code": 8263
+    },
+    {
+        "city_name": "Cerknica",
+        "city_code": 1380
+    },
+    {
+        "city_name": "Cerkno",
+        "city_code": 5282
+    },
+    {
+        "city_name": "Cerkvenjak",
+        "city_code": 2236
+    },
+    {
+        "city_name": "Ceršak",
+        "city_code": 2215
+    },
+    {
+        "city_name": "Cirkovce",
+        "city_code": 2326
+    },
+    {
+        "city_name": "Cirkulane",
+        "city_code": 2282
+    },
+    {
+        "city_name": "Col",
+        "city_code": 5273
+    },
+    {
+        "city_name": "Čatež ob Savi",
+        "city_code": 8251
+    },
+    {
+        "city_name": "Čemšenik",
+        "city_code": 1413
+    },
+    {
+        "city_name": "Čepovan",
+        "city_code": 5253
+    },
+    {
+        "city_name": "Črenšovci",
+        "city_code": 9232
+    },
+    {
+        "city_name": "Črna na Koroškem",
+        "city_code": 2393
+    },
+    {
+        "city_name": "Črni Kal",
+        "city_code": 6275
+    },
+    {
+        "city_name": "Črni Vrh nad Idrijo",
+        "city_code": 5274
+    },
+    {
+        "city_name": "Črniče",
+        "city_code": 5262
+    },
+    {
+        "city_name": "Črnomelj",
+        "city_code": 8340
+    },
+    {
+        "city_name": "Dekani",
+        "city_code": 6271
+    },
+    {
+        "city_name": "Deskle",
+        "city_code": 5210
+    },
+    {
+        "city_name": "Destrnik",
+        "city_code": 2253
+    },
+    {
+        "city_name": "Divača",
+        "city_code": 6215
+    },
+    {
+        "city_name": "Dob",
+        "city_code": 1233
+    },
+    {
+        "city_name": "Dobje pri Planini",
+        "city_code": 3224
+    },
+    {
+        "city_name": "Dobova",
+        "city_code": 8257
+    },
+    {
+        "city_name": "Dobovec",
+        "city_code": 1423
+    },
+    {
+        "city_name": "Dobravlje",
+        "city_code": 5263
+    },
+    {
+        "city_name": "Dobrna",
+        "city_code": 3204
+    },
+    {
+        "city_name": "Dobrnič",
+        "city_code": 8211
+    },
+    {
+        "city_name": "Dobrova",
+        "city_code": 1356
+    },
+    {
+        "city_name": "Dobrovnik/Dobronak",
+        "city_code": 9223
+    },
+    {
+        "city_name": "Dobrovo v Brdih",
+        "city_code": 5212
+    },
+    {
+        "city_name": "Dol pri Hrastniku",
+        "city_code": 1431
+    },
+    {
+        "city_name": "Dol pri Ljubljani",
+        "city_code": 1262
+    },
+    {
+        "city_name": "Dole pri Litiji",
+        "city_code": 1273
+    },
+    {
+        "city_name": "Dolenja vas",
+        "city_code": 1331
+    },
+    {
+        "city_name": "Dolenjske Toplice",
+        "city_code": 8350
+    },
+    {
+        "city_name": "Domžale",
+        "city_code": 1230
+    },
+    {
+        "city_name": "Dornava",
+        "city_code": 2252
+    },
+    {
+        "city_name": "Dornberk",
+        "city_code": 5294
+    },
+    {
+        "city_name": "Draga",
+        "city_code": 1319
+    },
+    {
+        "city_name": "Dragatuš",
+        "city_code": 8343
+    },
+    {
+        "city_name": "Dramlje",
+        "city_code": 3222
+    },
+    {
+        "city_name": "Dravograd",
+        "city_code": 2370
+    },
+    {
+        "city_name": "Duplje",
+        "city_code": 4203
+    },
+    {
+        "city_name": "Dutovlje",
+        "city_code": 6221
+    },
+    {
+        "city_name": "Dvor 8361Fala",
+        "city_code": 2343
+    },
+    {
+        "city_name": "Fokovci",
+        "city_code": 9208
+    },
+    {
+        "city_name": "Fram",
+        "city_code": 2313
+    },
+    {
+        "city_name": "Frankolovo",
+        "city_code": 3213
+    },
+    {
+        "city_name": "Gabrovka",
+        "city_code": 1274
+    },
+    {
+        "city_name": "Globoko",
+        "city_code": 8254
+    },
+    {
+        "city_name": "Godovič",
+        "city_code": 5275
+    },
+    {
+        "city_name": "Golnik",
+        "city_code": 4204
+    },
+    {
+        "city_name": "Gomilsko",
+        "city_code": 3303
+    },
+    {
+        "city_name": "Gorenja vas",
+        "city_code": 4224
+    },
+    {
+        "city_name": "Gorica pri Slivnici",
+        "city_code": 3263
+    },
+    {
+        "city_name": "Gorišnica",
+        "city_code": 2272
+    },
+    {
+        "city_name": "Gornja Radgona",
+        "city_code": 9250
+    },
+    {
+        "city_name": "Gornji Grad",
+        "city_code": 3342
+    },
+    {
+        "city_name": "Gozd Martuljek",
+        "city_code": 4282
+    },
+    {
+        "city_name": "Gracišče",
+        "city_code": 6272
+    },
+    {
+        "city_name": "Grad",
+        "city_code": 9264
+    },
+    {
+        "city_name": "Gradac",
+        "city_code": 8332
+    },
+    {
+        "city_name": "Grahovo",
+        "city_code": 1384
+    },
+    {
+        "city_name": "Grahovo ob Bači",
+        "city_code": 5242
+    },
+    {
+        "city_name": "Grgar",
+        "city_code": 5251
+    },
+    {
+        "city_name": "Griže",
+        "city_code": 3302
+    },
+    {
+        "city_name": "Grobelno",
+        "city_code": 3231
+    },
+    {
+        "city_name": "Grosuplje 1290Hajdina",
+        "city_code": 2288
+    },
+    {
+        "city_name": "Hinje",
+        "city_code": 8362
+    },
+    {
+        "city_name": "Hoče",
+        "city_code": 2311
+    },
+    {
+        "city_name": "Hodoš/Hodos",
+        "city_code": 9205
+    },
+    {
+        "city_name": "Horjul",
+        "city_code": 1354
+    },
+    {
+        "city_name": "Hotedršica",
+        "city_code": 1372
+    },
+    {
+        "city_name": "Hrastnik",
+        "city_code": 1430
+    },
+    {
+        "city_name": "Hruševje",
+        "city_code": 6225
+    },
+    {
+        "city_name": "Hrušica 4276Idrija",
+        "city_code": 5280
+    },
+    {
+        "city_name": "Ig",
+        "city_code": 1292
+    },
+    {
+        "city_name": "Ilirska Bistrica",
+        "city_code": 6250
+    },
+    {
+        "city_name": "Ilirska Bistrica-Trnovo",
+        "city_code": 6251
+    },
+    {
+        "city_name": "Ivančna Gorica",
+        "city_code": 1295
+    },
+    {
+        "city_name": "Ivanjkovci",
+        "city_code": 2259
+    },
+    {
+        "city_name": "Izlake",
+        "city_code": 1411
+    },
+    {
+        "city_name": "Izola/Isola 6310Jakobski Dol",
+        "city_code": 2222
+    },
+    {
+        "city_name": "Jarenina",
+        "city_code": 2221
+    },
+    {
+        "city_name": "Jelšane",
+        "city_code": 6254
+    },
+    {
+        "city_name": "Jesenice",
+        "city_code": 4270
+    },
+    {
+        "city_name": "Jesenice na Dolenjskem",
+        "city_code": 8261
+    },
+    {
+        "city_name": "Jurklošter",
+        "city_code": 3273
+    },
+    {
+        "city_name": "Jurovski Dol",
+        "city_code": 2223
+    },
+    {
+        "city_name": "Juršinci 2256 Kal nad Kanalom",
+        "city_code": 5214
+    },
+    {
+        "city_name": "Kalobje",
+        "city_code": 3233
+    },
+    {
+        "city_name": "Kamna Gorica",
+        "city_code": 4246
+    },
+    {
+        "city_name": "Kamnica",
+        "city_code": 2351
+    },
+    {
+        "city_name": "Kamnik",
+        "city_code": 1241
+    },
+    {
+        "city_name": "Kanal",
+        "city_code": 5213
+    },
+    {
+        "city_name": "Kapele",
+        "city_code": 8258
+    },
+    {
+        "city_name": "Kapla",
+        "city_code": 2362
+    },
+    {
+        "city_name": "Kidričevo",
+        "city_code": 2325
+    },
+    {
+        "city_name": "Kisovec",
+        "city_code": 1412
+    },
+    {
+        "city_name": "Knežak",
+        "city_code": 6253
+    },
+    {
+        "city_name": "Kobarid",
+        "city_code": 5222
+    },
+    {
+        "city_name": "Kobilje",
+        "city_code": 9227
+    },
+    {
+        "city_name": "Kočevje",
+        "city_code": 1330
+    },
+    {
+        "city_name": "Kočevska Reka",
+        "city_code": 1338
+    },
+    {
+        "city_name": "Kog",
+        "city_code": 2276
+    },
+    {
+        "city_name": "Kojsko",
+        "city_code": 5211
+    },
+    {
+        "city_name": "Komen",
+        "city_code": 6223
+    },
+    {
+        "city_name": "Komenda",
+        "city_code": 1218
+    },
+    {
+        "city_name": "Koper/Capodistria",
+        "city_code": 6000
+    },
+    {
+        "city_name": "Koper/Capodistria – P.P.",
+        "city_code": 6001
+    },
+    {
+        "city_name": "Koprivnica",
+        "city_code": 8282
+    },
+    {
+        "city_name": "Kostanjevica na Krasu",
+        "city_code": 5296
+    },
+    {
+        "city_name": "Kostanjevica na Krki",
+        "city_code": 8311
+    },
+    {
+        "city_name": "Kostel",
+        "city_code": 1336
+    },
+    {
+        "city_name": "Košana",
+        "city_code": 6256
+    },
+    {
+        "city_name": "Kotlje",
+        "city_code": 2394
+    },
+    {
+        "city_name": "Kozina",
+        "city_code": 6240
+    },
+    {
+        "city_name": "Kozje",
+        "city_code": 3260
+    },
+    {
+        "city_name": "Kranj",
+        "city_code": 4000
+    },
+    {
+        "city_name": "Kranj – P.P.",
+        "city_code": 4001
+    },
+    {
+        "city_name": "Kranjska Gora",
+        "city_code": 4280
+    },
+    {
+        "city_name": "Kresnice",
+        "city_code": 1281
+    },
+    {
+        "city_name": "Križe",
+        "city_code": 4294
+    },
+    {
+        "city_name": "Križevci",
+        "city_code": 9206
+    },
+    {
+        "city_name": "Križevci pri Ljutomeru",
+        "city_code": 9242
+    },
+    {
+        "city_name": "Krka",
+        "city_code": 1301
+    },
+    {
+        "city_name": "Krmelj",
+        "city_code": 8296
+    },
+    {
+        "city_name": "Kropa",
+        "city_code": 4245
+    },
+    {
+        "city_name": "Krška vas",
+        "city_code": 8262
+    },
+    {
+        "city_name": "Krško",
+        "city_code": 8270
+    },
+    {
+        "city_name": "Kuzma 9263 Laporje",
+        "city_code": 2318
+    },
+    {
+        "city_name": "Laško",
+        "city_code": 3270
+    },
+    {
+        "city_name": "Laze v Tuhinju",
+        "city_code": 1219
+    },
+    {
+        "city_name": "Lenart v Slovenskih goricah",
+        "city_code": 2230
+    },
+    {
+        "city_name": "Lendava/Lendva",
+        "city_code": 9220
+    },
+    {
+        "city_name": "Lesce",
+        "city_code": 4248
+    },
+    {
+        "city_name": "Lesično",
+        "city_code": 3261
+    },
+    {
+        "city_name": "Leskovec pri Krškem",
+        "city_code": 8273
+    },
+    {
+        "city_name": "Libelice",
+        "city_code": 2372
+    },
+    {
+        "city_name": "Limbuš",
+        "city_code": 2341
+    },
+    {
+        "city_name": "Litija",
+        "city_code": 1270
+    },
+    {
+        "city_name": "Ljubečna",
+        "city_code": 3202
+    },
+    {
+        "city_name": "Ljubljana",
+        "city_code": 1000
+    },
+    {
+        "city_name": "Ljubljana – P.P.",
+        "city_code": 1001
+    },
+    {
+        "city_name": "Ljubljana – Črnuče",
+        "city_code": 1231
+    },
+    {
+        "city_name": "Ljubljana – Dobrunje",
+        "city_code": 1261
+    },
+    {
+        "city_name": "Ljubljana – Polje",
+        "city_code": 1260
+    },
+    {
+        "city_name": "Ljubljana – Šentvid",
+        "city_code": 1210
+    },
+    {
+        "city_name": "Ljubljana – Šmartno",
+        "city_code": 1211
+    },
+    {
+        "city_name": "Ljubno ob Savinji",
+        "city_code": 3333
+    },
+    {
+        "city_name": "Ljutomer",
+        "city_code": 9240
+    },
+    {
+        "city_name": "Loče",
+        "city_code": 3215
+    },
+    {
+        "city_name": "Log pod Mangartom",
+        "city_code": 5231
+    },
+    {
+        "city_name": "Log pri Brezovici",
+        "city_code": 1358
+    },
+    {
+        "city_name": "Logatec",
+        "city_code": 1370
+    },
+    {
+        "city_name": "Logatec",
+        "city_code": 1371
+    },
+    {
+        "city_name": "Loka pri Zidanem Mostu",
+        "city_code": 1434
+    },
+    {
+        "city_name": "Loka pri Žusmu",
+        "city_code": 3223
+    },
+    {
+        "city_name": "Lokev",
+        "city_code": 6219
+    },
+    {
+        "city_name": "Loški Potok",
+        "city_code": 1318
+    },
+    {
+        "city_name": "Lovrenc na Dravskem polju",
+        "city_code": 2324
+    },
+    {
+        "city_name": "Lovrenc na Pohorju",
+        "city_code": 2344
+    },
+    {
+        "city_name": "Luče",
+        "city_code": 3334
+    },
+    {
+        "city_name": "Lukovica",
+        "city_code": 1220
+    },
+    {
+        "city_name": " Mačkovci",
+        "city_code": 9202
+    },
+    {
+        "city_name": "Majšperk",
+        "city_code": 2322
+    },
+    {
+        "city_name": "Makole",
+        "city_code": 2321
+    },
+    {
+        "city_name": "Mala Nedelja",
+        "city_code": 9243
+    },
+    {
+        "city_name": "Malečnik",
+        "city_code": 2229
+    },
+    {
+        "city_name": "Marezige",
+        "city_code": 6273
+    },
+    {
+        "city_name": "Maribor",
+        "city_code": 2000
+    },
+    {
+        "city_name": "Maribor – P.P.",
+        "city_code": 2001
+    },
+    {
+        "city_name": "Marjeta na Dravskem polju",
+        "city_code": 2206
+    },
+    {
+        "city_name": "Markovci",
+        "city_code": 2281
+    },
+    {
+        "city_name": "Martjanci",
+        "city_code": 9221
+    },
+    {
+        "city_name": "Materija",
+        "city_code": 6242
+    },
+    {
+        "city_name": "Mavčiče",
+        "city_code": 4211
+    },
+    {
+        "city_name": "Medvode",
+        "city_code": 1215
+    },
+    {
+        "city_name": "Mengeš",
+        "city_code": 1234
+    },
+    {
+        "city_name": "Metlika",
+        "city_code": 8330
+    },
+    {
+        "city_name": "Mežica",
+        "city_code": 2392
+    },
+    {
+        "city_name": "Miklavž na Dravskem polju",
+        "city_code": 2204
+    },
+    {
+        "city_name": "Miklavž pri Ormožu",
+        "city_code": 2275
+    },
+    {
+        "city_name": "Miren",
+        "city_code": 5291
+    },
+    {
+        "city_name": "Mirna",
+        "city_code": 8233
+    },
+    {
+        "city_name": "Mirna Peč",
+        "city_code": 8216
+    },
+    {
+        "city_name": "Mislinja",
+        "city_code": 2382
+    },
+    {
+        "city_name": "Mojstrana",
+        "city_code": 4281
+    },
+    {
+        "city_name": "Mokronog",
+        "city_code": 8230
+    },
+    {
+        "city_name": "Moravče",
+        "city_code": 1251
+    },
+    {
+        "city_name": "Moravske Toplice",
+        "city_code": 9226
+    },
+    {
+        "city_name": "Most na Soči",
+        "city_code": 5216
+    },
+    {
+        "city_name": "Motnik",
+        "city_code": 1221
+    },
+    {
+        "city_name": "Mozirje",
+        "city_code": 3330
+    },
+    {
+        "city_name": "Murska Sobota",
+        "city_code": 9000
+    },
+    {
+        "city_name": "Murska Sobota – P.P.",
+        "city_code": 9001
+    },
+    {
+        "city_name": "Muta",
+        "city_code": 2366
+    },
+    {
+        "city_name": "Naklo",
+        "city_code": 4202
+    },
+    {
+        "city_name": "Nazarje",
+        "city_code": 3331
+    },
+    {
+        "city_name": "Notranje Gorice",
+        "city_code": 1357
+    },
+    {
+        "city_name": "Nova Cerkev",
+        "city_code": 3203
+    },
+    {
+        "city_name": "Nova Gorica",
+        "city_code": 5000
+    },
+    {
+        "city_name": "Nova Gorica – P.P.",
+        "city_code": 5001
+    },
+    {
+        "city_name": "Nova vas",
+        "city_code": 1385
+    },
+    {
+        "city_name": "Novo mesto",
+        "city_code": 8000
+    },
+    {
+        "city_name": "Novo mesto – P.P.",
+        "city_code": 8001
+    },
+    {
+        "city_name": "Odranci",
+        "city_code": 9233
+    },
+    {
+        "city_name": "Oplotnica",
+        "city_code": 2317
+    },
+    {
+        "city_name": "Orehova vas",
+        "city_code": 2312
+    },
+    {
+        "city_name": "Ormož",
+        "city_code": 2270
+    },
+    {
+        "city_name": "Ortnek",
+        "city_code": 1316
+    },
+    {
+        "city_name": "Osilnica",
+        "city_code": 1337
+    },
+    {
+        "city_name": "Otočec",
+        "city_code": 8222
+    },
+    {
+        "city_name": "Ožbalt 2361 Pernica",
+        "city_code": 2231
+    },
+    {
+        "city_name": "Pesnica pri Mariboru",
+        "city_code": 2211
+    },
+    {
+        "city_name": "Petrovci",
+        "city_code": 9203
+    },
+    {
+        "city_name": "Petrovče",
+        "city_code": 3301
+    },
+    {
+        "city_name": "Piran/Pirano",
+        "city_code": 6330
+    },
+    {
+        "city_name": "Pišece",
+        "city_code": 8255
+    },
+    {
+        "city_name": "Pivka",
+        "city_code": 6257
+    },
+    {
+        "city_name": "Planina",
+        "city_code": 6232
+    },
+    {
+        "city_name": "Planina pri Sevnici",
+        "city_code": 3225
+    },
+    {
+        "city_name": "Pobegi",
+        "city_code": 6276
+    },
+    {
+        "city_name": "Podbočje",
+        "city_code": 8312
+    },
+    {
+        "city_name": "Podbrdo",
+        "city_code": 5243
+    },
+    {
+        "city_name": "Podčetrtek",
+        "city_code": 3254
+    },
+    {
+        "city_name": "Podgorci",
+        "city_code": 2273
+    },
+    {
+        "city_name": "Podgorje",
+        "city_code": 6216
+    },
+    {
+        "city_name": "Podgorje pri Slovenj Gradcu",
+        "city_code": 2381
+    },
+    {
+        "city_name": "Podgrad",
+        "city_code": 6244
+    },
+    {
+        "city_name": "Podkum",
+        "city_code": 1414
+    },
+    {
+        "city_name": "Podlehnik",
+        "city_code": 2286
+    },
+    {
+        "city_name": "Podnanos",
+        "city_code": 5272
+    },
+    {
+        "city_name": "Podnart",
+        "city_code": 4244
+    },
+    {
+        "city_name": "Podplat",
+        "city_code": 3241
+    },
+    {
+        "city_name": "Podsreda",
+        "city_code": 3257
+    },
+    {
+        "city_name": "Podvelka",
+        "city_code": 2363
+    },
+    {
+        "city_name": "Pohorje",
+        "city_code": 2208
+    },
+    {
+        "city_name": "Polenšak",
+        "city_code": 2257
+    },
+    {
+        "city_name": "Polhov Gradec",
+        "city_code": 1355
+    },
+    {
+        "city_name": "Poljane nad Škofjo Loko",
+        "city_code": 4223
+    },
+    {
+        "city_name": "Poljčane",
+        "city_code": 2319
+    },
+    {
+        "city_name": "Polšnik",
+        "city_code": 1272
+    },
+    {
+        "city_name": "Polzela",
+        "city_code": 3313
+    },
+    {
+        "city_name": "Ponikva",
+        "city_code": 3232
+    },
+    {
+        "city_name": "Portorož/Portorose",
+        "city_code": 6320
+    },
+    {
+        "city_name": "Postojna",
+        "city_code": 6230
+    },
+    {
+        "city_name": "Pragersko",
+        "city_code": 2331
+    },
+    {
+        "city_name": "Prebold",
+        "city_code": 3312
+    },
+    {
+        "city_name": "Preddvor",
+        "city_code": 4205
+    },
+    {
+        "city_name": "Prem",
+        "city_code": 6255
+    },
+    {
+        "city_name": "Preserje",
+        "city_code": 1352
+    },
+    {
+        "city_name": "Prestranek",
+        "city_code": 6258
+    },
+    {
+        "city_name": "Prevalje",
+        "city_code": 2391
+    },
+    {
+        "city_name": "Prevorje",
+        "city_code": 3262
+    },
+    {
+        "city_name": "Primskovo",
+        "city_code": 1276
+    },
+    {
+        "city_name": "Pristava pri Mestinju",
+        "city_code": 3253
+    },
+    {
+        "city_name": "Prosenjakovci/Partosfalva",
+        "city_code": 9207
+    },
+    {
+        "city_name": "Prvačina",
+        "city_code": 5297
+    },
+    {
+        "city_name": "Ptuj",
+        "city_code": 2250
+    },
+    {
+        "city_name": "Ptujska Gora",
+        "city_code": 2323
+    },
+    {
+        "city_name": "Puconci",
+        "city_code": 9201
+    },
+    {
+        "city_name": "Rače",
+        "city_code": 2327
+    },
+    {
+        "city_name": "Radeče",
+        "city_code": 1433
+    },
+    {
+        "city_name": "Radenci",
+        "city_code": 9252
+    },
+    {
+        "city_name": "Radlje ob Dravi",
+        "city_code": 2360
+    },
+    {
+        "city_name": "Radomlje",
+        "city_code": 1235
+    },
+    {
+        "city_name": "Radovljica",
+        "city_code": 4240
+    },
+    {
+        "city_name": "Raka",
+        "city_code": 8274
+    },
+    {
+        "city_name": "Rakek",
+        "city_code": 1381
+    },
+    {
+        "city_name": "Rateče – Planica",
+        "city_code": 4283
+    },
+    {
+        "city_name": "Ravne na Koroškem",
+        "city_code": 2390
+    },
+    {
+        "city_name": "Rečica ob Savinji",
+        "city_code": 3332
+    },
+    {
+        "city_name": "Renče",
+        "city_code": 5292
+    },
+    {
+        "city_name": "Ribnica",
+        "city_code": 1310
+    },
+    {
+        "city_name": "Ribnica na Pohorju",
+        "city_code": 2364
+    },
+    {
+        "city_name": "Rimske Toplice",
+        "city_code": 3272
+    },
+    {
+        "city_name": "Rob",
+        "city_code": 1314
+    },
+    {
+        "city_name": "Ročinj",
+        "city_code": 5215
+    },
+    {
+        "city_name": "Rogaška Slatina",
+        "city_code": 3250
+    },
+    {
+        "city_name": "Rogašovci",
+        "city_code": 9262
+    },
+    {
+        "city_name": "Rogatec",
+        "city_code": 3252
+    },
+    {
+        "city_name": "Rovte",
+        "city_code": 1373
+    },
+    {
+        "city_name": "Ruše 2342 Sava",
+        "city_code": 1282
+    },
+    {
+        "city_name": "Sečovlje/Sicciole",
+        "city_code": 6333
+    },
+    {
+        "city_name": "Selca",
+        "city_code": 4227
+    },
+    {
+        "city_name": "Selnica ob Dravi",
+        "city_code": 2352
+    },
+    {
+        "city_name": "Semič",
+        "city_code": 8333
+    },
+    {
+        "city_name": "Senovo",
+        "city_code": 8281
+    },
+    {
+        "city_name": "Senožeče",
+        "city_code": 6224
+    },
+    {
+        "city_name": "Sevnica",
+        "city_code": 8290
+    },
+    {
+        "city_name": "Sežana",
+        "city_code": 6210
+    },
+    {
+        "city_name": "Sladki Vrh",
+        "city_code": 2214
+    },
+    {
+        "city_name": "Slap ob Idrijci",
+        "city_code": 5283
+    },
+    {
+        "city_name": "Slovenj Gradec",
+        "city_code": 2380
+    },
+    {
+        "city_name": "Slovenska Bistrica",
+        "city_code": 2310
+    },
+    {
+        "city_name": "Slovenske Konjice",
+        "city_code": 3210
+    },
+    {
+        "city_name": "Smlednik",
+        "city_code": 1216
+    },
+    {
+        "city_name": "Soča",
+        "city_code": 5232
+    },
+    {
+        "city_name": "Sodražica",
+        "city_code": 1317
+    },
+    {
+        "city_name": "Solčava",
+        "city_code": 3335
+    },
+    {
+        "city_name": "Solkan",
+        "city_code": 5250
+    },
+    {
+        "city_name": "Sorica",
+        "city_code": 4229
+    },
+    {
+        "city_name": "Sovodenj",
+        "city_code": 4225
+    },
+    {
+        "city_name": "Spodnja Idrija",
+        "city_code": 5281
+    },
+    {
+        "city_name": "Spodnji Duplek",
+        "city_code": 2241
+    },
+    {
+        "city_name": "Spodnji Ivanjci",
+        "city_code": 9245
+    },
+    {
+        "city_name": "Središče ob Dravi",
+        "city_code": 2277
+    },
+    {
+        "city_name": "Srednja vas v Bohinju",
+        "city_code": 4267
+    },
+    {
+        "city_name": "Sromlje",
+        "city_code": 8256
+    },
+    {
+        "city_name": "Srpenica",
+        "city_code": 5224
+    },
+    {
+        "city_name": "Stahovica",
+        "city_code": 1242
+    },
+    {
+        "city_name": "Stara Cerkev",
+        "city_code": 1332
+    },
+    {
+        "city_name": "Stari trg ob Kolpi",
+        "city_code": 8342
+    },
+    {
+        "city_name": "Stari trg pri Ložu",
+        "city_code": 1386
+    },
+    {
+        "city_name": "Starše",
+        "city_code": 2205
+    },
+    {
+        "city_name": "Stoperce",
+        "city_code": 2289
+    },
+    {
+        "city_name": "Stopiče",
+        "city_code": 8322
+    },
+    {
+        "city_name": "Stranice",
+        "city_code": 3206
+    },
+    {
+        "city_name": "Straža",
+        "city_code": 8351
+    },
+    {
+        "city_name": "Struge",
+        "city_code": 1313
+    },
+    {
+        "city_name": "Studenec",
+        "city_code": 8293
+    },
+    {
+        "city_name": "Suhor",
+        "city_code": 8331
+    },
+    {
+        "city_name": "Sv. Ana v Slovenskih goricah",
+        "city_code": 2233
+    },
+    {
+        "city_name": "Sv. Trojica v Slovenskih goricah",
+        "city_code": 2235
+    },
+    {
+        "city_name": "Sveti Duh na Ostrem Vrhu",
+        "city_code": 2353
+    },
+    {
+        "city_name": "Sveti Jurij ob Ščavnici",
+        "city_code": 9244
+    },
+    {
+        "city_name": "Sveti Štefan",
+        "city_code": 3264
+    },
+    {
+        "city_name": "Sveti Tomaž",
+        "city_code": 2258
+    },
+    {
+        "city_name": " Šalovci",
+        "city_code": 9204
+    },
+    {
+        "city_name": "Šempas",
+        "city_code": 5261
+    },
+    {
+        "city_name": "Šempeter pri Gorici",
+        "city_code": 5290
+    },
+    {
+        "city_name": "Šempeter v Savinjski dolini",
+        "city_code": 3311
+    },
+    {
+        "city_name": "Šenčur",
+        "city_code": 4208
+    },
+    {
+        "city_name": "Šentilj v Slovenskih goricah",
+        "city_code": 2212
+    },
+    {
+        "city_name": "Šentjanž",
+        "city_code": 8297
+    },
+    {
+        "city_name": "Šentjanž pri Dravogradu",
+        "city_code": 2373
+    },
+    {
+        "city_name": "Šentjernej",
+        "city_code": 8310
+    },
+    {
+        "city_name": "Šentjur",
+        "city_code": 3230
+    },
+    {
+        "city_name": "Šentrupert",
+        "city_code": 3271
+    },
+    {
+        "city_name": "Šentrupert",
+        "city_code": 8232
+    },
+    {
+        "city_name": "Šentvid pri Stični",
+        "city_code": 1296
+    },
+    {
+        "city_name": "Škocjan",
+        "city_code": 8275
+    },
+    {
+        "city_name": "Škofije",
+        "city_code": 6281
+    },
+    {
+        "city_name": "Škofja Loka",
+        "city_code": 4220
+    },
+    {
+        "city_name": "Škofja vas",
+        "city_code": 3211
+    },
+    {
+        "city_name": "Škofljica",
+        "city_code": 1291
+    },
+    {
+        "city_name": "Šmarje",
+        "city_code": 6274
+    },
+    {
+        "city_name": "Šmarje – Sap",
+        "city_code": 1293
+    },
+    {
+        "city_name": "Šmarje pri Jelšah",
+        "city_code": 3240
+    },
+    {
+        "city_name": "Šmarješke Toplice",
+        "city_code": 8220
+    },
+    {
+        "city_name": "Šmartno na Pohorju",
+        "city_code": 2315
+    },
+    {
+        "city_name": "Šmartno ob Dreti",
+        "city_code": 3341
+    },
+    {
+        "city_name": "Šmartno ob Paki",
+        "city_code": 3327
+    },
+    {
+        "city_name": "Šmartno pri Litiji",
+        "city_code": 1275
+    },
+    {
+        "city_name": "Šmartno pri Slovenj Gradcu",
+        "city_code": 2383
+    },
+    {
+        "city_name": "Šmartno v Rožni dolini",
+        "city_code": 3201
+    },
+    {
+        "city_name": "Šoštanj",
+        "city_code": 3325
+    },
+    {
+        "city_name": "Štanjel",
+        "city_code": 6222
+    },
+    {
+        "city_name": "Štore",
+        "city_code": 3220
+    },
+    {
+        "city_name": "Tabor",
+        "city_code": 3304
+    },
+    {
+        "city_name": "Teharje",
+        "city_code": 3221
+    },
+    {
+        "city_name": "Tišina",
+        "city_code": 9251
+    },
+    {
+        "city_name": "Tolmin",
+        "city_code": 5220
+    },
+    {
+        "city_name": "Topolšica",
+        "city_code": 3326
+    },
+    {
+        "city_name": "Trbonje",
+        "city_code": 2371
+    },
+    {
+        "city_name": "Trbovlje",
+        "city_code": 1420
+    },
+    {
+        "city_name": "Trebelno",
+        "city_code": 8231
+    },
+    {
+        "city_name": "Trebnje",
+        "city_code": 8210
+    },
+    {
+        "city_name": "Trnovo pri Gorici",
+        "city_code": 5252
+    },
+    {
+        "city_name": "Trnovska vas",
+        "city_code": 2254
+    },
+    {
+        "city_name": "Trojane",
+        "city_code": 1222
+    },
+    {
+        "city_name": "Trzin",
+        "city_code": 1236
+    },
+    {
+        "city_name": "Tržič",
+        "city_code": 4290
+    },
+    {
+        "city_name": "Tržišče",
+        "city_code": 8295
+    },
+    {
+        "city_name": "Turjak",
+        "city_code": 1311
+    },
+    {
+        "city_name": "Turnišče",
+        "city_code": 9224
+    },
+    {
+        "city_name": "Uršna sela",
+        "city_code": 8323
+    },
+    {
+        "city_name": "Vače",
+        "city_code": 1252
+    },
+    {
+        "city_name": "Velenje",
+        "city_code": 3320
+    },
+    {
+        "city_name": "Velenje – P.P.",
+        "city_code": 3322
+    },
+    {
+        "city_name": "Velika Loka",
+        "city_code": 8212
+    },
+    {
+        "city_name": "Velika Nedelja",
+        "city_code": 2274
+    },
+    {
+        "city_name": "Velika Polana",
+        "city_code": 9225
+    },
+    {
+        "city_name": "Velike Lašče",
+        "city_code": 1315
+    },
+    {
+        "city_name": "Veliki Gaber",
+        "city_code": 8213
+    },
+    {
+        "city_name": "Veržej",
+        "city_code": 9241
+    },
+    {
+        "city_name": "Videm – Dobrepolje",
+        "city_code": 1312
+    },
+    {
+        "city_name": "Videm pri Ptuju",
+        "city_code": 2284
+    },
+    {
+        "city_name": "Vinica",
+        "city_code": 8344
+    },
+    {
+        "city_name": "Vipava",
+        "city_code": 5271
+    },
+    {
+        "city_name": "Visoko",
+        "city_code": 4212
+    },
+    {
+        "city_name": "Višnja Gora",
+        "city_code": 1294
+    },
+    {
+        "city_name": "Vitanje",
+        "city_code": 3205
+    },
+    {
+        "city_name": "Vitomarci",
+        "city_code": 2255
+    },
+    {
+        "city_name": "Vodice",
+        "city_code": 1217
+    },
+    {
+        "city_name": "Vojnik",
+        "city_code": 3212
+    },
+    {
+        "city_name": "Volčja Draga",
+        "city_code": 5293
+    },
+    {
+        "city_name": "Voličina",
+        "city_code": 2232
+    },
+    {
+        "city_name": "Vransko",
+        "city_code": 3305
+    },
+    {
+        "city_name": "Vremski Britof",
+        "city_code": 6217
+    },
+    {
+        "city_name": "Vrhnika",
+        "city_code": 1360
+    },
+    {
+        "city_name": "Vuhred",
+        "city_code": 2365
+    },
+    {
+        "city_name": "Vuzenica",
+        "city_code": 2367
+    },
+    {
+        "city_name": "Zabukovje",
+        "city_code": 8292
+    },
+    {
+        "city_name": "Zagorje ob Savi",
+        "city_code": 1410
+    },
+    {
+        "city_name": "Zagradec",
+        "city_code": 1303
+    },
+    {
+        "city_name": "Zavrc",
+        "city_code": 2283
+    },
+    {
+        "city_name": "Zdole",
+        "city_code": 8272
+    },
+    {
+        "city_name": "Zgornja Besnica",
+        "city_code": 4201
+    },
+    {
+        "city_name": "Zgornja Korena",
+        "city_code": 2242
+    },
+    {
+        "city_name": "Zgornja Kungota",
+        "city_code": 2201
+    },
+    {
+        "city_name": "Zgornja Ložnica",
+        "city_code": 2316
+    },
+    {
+        "city_name": "Zgornja Polskava",
+        "city_code": 2314
+    },
+    {
+        "city_name": "Zgornja Velka",
+        "city_code": 2213
+    },
+    {
+        "city_name": "Zgornje Gorje",
+        "city_code": 4247
+    },
+    {
+        "city_name": "Zgornje Jezersko",
+        "city_code": 4206
+    },
+    {
+        "city_name": "Zgornji Leskovec",
+        "city_code": 2285
+    },
+    {
+        "city_name": "Zidani Most",
+        "city_code": 1432
+    },
+    {
+        "city_name": "Zreče",
+        "city_code": 3214
+    },
+    {
+        "city_name": "Žabnica",
+        "city_code": 4209
+    },
+    {
+        "city_name": "Žalec",
+        "city_code": 3310
+    },
+    {
+        "city_name": "Železniki",
+        "city_code": 4228
+    },
+    {
+        "city_name": "Žetale",
+        "city_code": 2287
+    },
+    {
+        "city_name": "Žiri",
+        "city_code": 4226
+    },
+    {
+        "city_name": "Žirovnica",
+        "city_code": 4274
+    },
+    {
+        "city_name": "Žužemberk",
+        "city_code": 8360
+    }
+]
